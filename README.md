@@ -3,8 +3,6 @@
 This repository contains supplementary study materials related to the AVA Clinician Turing Test.
 
 **Included in this repository:**
-
-- `AVA_CTT_Informed_Consent.pdf`: this pdf contains the informed consent form that will be used with participants in the Turing Test.
   
 - `turing_test_power_glmer.r`: this R script contains the power calculations for the primary analysis of our Turing test based on a mixed-effects logistic regression model with an equivalence design, accounting for crossed random effects for both vignette and participant.
 
